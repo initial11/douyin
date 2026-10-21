@@ -4,7 +4,7 @@ from zoneinfo import ZoneInfo
 CST = ZoneInfo("Asia/Shanghai")
 
 GH_TOKEN = os.environ.get('GH_TOKEN', '')
-OWNER = 'willisfeng'
+OWNER = 'initial11'
 REPO = 'douyin'
 hd = {'Authorization': 'Bearer ' + GH_TOKEN, 'Accept': 'application/vnd.github+json'} if GH_TOKEN else {'Accept': 'application/vnd.github+json'}
 
