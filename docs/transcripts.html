@@ -161,7 +161,7 @@ let loadedContent = {};
 
 async function init(){
 try{
-const r=await fetch('https://raw.githubusercontent.com/willisfeng/douyin/main/docs/transcripts_index.json');
+const r=await fetch('https://raw.githubusercontent.com/initial11/douyin/main/docs/transcripts_index.json');
 if(!r.ok)throw new Error('HTTP '+r.status);
 data=await r.json();
 document.getElementById('loading').style.display='none';
