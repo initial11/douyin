@@ -2,64 +2,64 @@
   "21287592492": {
     "live": true,
     "recording": true,
-    "start_ts": 1792686406,
+    "start_ts": 1792698584,
     "name": "老崔（东汉末年分三国）",
-    "checked_at": 1792695195
+    "checked_at": 1792698901
   },
   "76084627741": {
     "live": false,
     "recording": false,
     "start_ts": null,
     "name": "活着不玩不如死",
-    "checked_at": 1792695195
+    "checked_at": 1792698901
   },
   "9896719.": {
     "live": false,
     "recording": false,
     "start_ts": null,
     "name": "陈泽-",
-    "checked_at": 1792695195
+    "checked_at": 1792698901
   },
   "EG7999": {
     "live": false,
     "recording": false,
     "start_ts": null,
     "name": "EG7-（羊咩咩的EG7）",
-    "checked_at": 1792695195
+    "checked_at": 1792698901
   },
   "WXY5688": {
-    "live": true,
+    "live": false,
     "recording": false,
     "start_ts": null,
     "name": "王逍遥",
-    "checked_at": 1792695195
+    "checked_at": 1792698901
   },
   "heibai9799": {
-    "live": true,
-    "recording": true,
-    "start_ts": 1792686386,
-    "name": "黑白-",
-    "checked_at": 1792695195
+    "live": false,
+    "recording": false,
+    "start_ts": null,
+    "name": "黑白-（恩师cf老四）",
+    "checked_at": 1792698901
   },
   "liushuojun666": {
     "live": true,
     "recording": true,
-    "start_ts": 1792686395,
+    "start_ts": 1792698582,
     "name": "刘军-",
-    "checked_at": 1792695195
+    "checked_at": 1792698901
   },
   "rongyiming77": {
     "live": false,
     "recording": false,
     "start_ts": null,
     "name": "荣一鸣荣考拉",
-    "checked_at": 1792695195
+    "checked_at": 1792698901
   },
   "woaihualai666": {
     "live": false,
     "recording": false,
     "start_ts": null,
     "name": "陈泽陈泽",
-    "checked_at": 1792695195
+    "checked_at": 1792698901
   }
 }
